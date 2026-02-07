@@ -152,21 +152,32 @@ This makes debugging **production-friendly**.
 
 ## ▶️ How to Run the Project
 
+Follow the steps below to set up and run the Book Recommender System.
+
+---
+
 ### 1️⃣ Install Dependencies
+
+Install all required Python packages using `requirements.txt`:
+
 ```bash
 pip install -r requirements.txt
 
+---
+
 
 ### 2️⃣ Run the Application
-
+```bash
 streamlit run app.py
 
+---
+
 ### 3️⃣ Train the Model
-
+```bash
 Click “Train Recommender System” in the UI
-
+---
 ### 4️⃣ Get Recommendations
-
+```bash
 Select a book
 
 Click “Show Recommendation”
