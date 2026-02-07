@@ -166,7 +166,8 @@ pip install -r requirements.txt
 ```
 
 ### 2️⃣ Run the Application 
-```bash streamlit run app.py 
+```bash
+ streamlit run app.py 
 ```
 ### 3️⃣ Train the Model 
 ```bash  
