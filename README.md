@@ -163,7 +163,7 @@ Install all required Python packages using `requirements.txt`:
 ```bash
 pip install -r requirements.txt
 
----
+```
 
 bash scripts/run_app.sh
 
