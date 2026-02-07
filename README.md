@@ -27,14 +27,14 @@ Given user–book interaction data (ratings), recommend **similar books** to a u
 
 ## 🏗️ Project Architecture
 
-User (Streamlit UI)
-↓
-Recommendation Engine
-↓
-Trained KNN Model
-↓
-Book Similarity (User–Item Matrix)
-
+User (Streamlit UI)<br>
+↓<br>
+Recommendation Engine<br>
+↓<br>
+Trained KNN Model<br>
+↓<br>
+Book Similarity (User–Item Matrix)<br>
+<br>
 
 ---
 
