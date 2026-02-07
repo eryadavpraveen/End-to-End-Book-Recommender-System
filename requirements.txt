@@ -1,6 +1,10 @@
-scikit-learn
+streamlit==1.19.0
+altair==4.2.2
 numpy
 pandas
-PyYAML
-streamlit
+scikit-learn
+scipy
+pyyaml
+pillow
+six
 -e .
